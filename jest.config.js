@@ -1,3 +1,4 @@
+
 module.exports = {
 	collectCoverage: true,
 	coverageDirectory: '<rootDir>/test-report',

@@ -7,3 +7,4 @@ const result = diff(a, b);
 
 // print diff
 console.log(result);
+
